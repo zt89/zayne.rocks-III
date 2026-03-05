@@ -135,12 +135,12 @@ p {
   text-shadow: 1.5px 1.5px 0px #0E0312;
 }
 .navbar-dark {
-    background-color: rgba(14, 3, 18, 0)!important;
+    background-color: rgba(0, 0, 0, 0)!important;
     border: none !important;
     border-width:0!important;
 }
 .navbar-light {
-    background-color: rgba(0, 0, 0, 0.3)!important;
+    background-color: rgba(0, 0, 0, 0)!important;
     border: none !important;
     border-width:0!important;
 }
